@@ -4,11 +4,10 @@
 #
 %define		pdir	B
 %define		pnam	Debug
-%include	/usr/lib/rpm/macros.perl
 Summary:	B::Debug - Walk Perl syntax tree, printing debug info about ops
 Name:		perl-B-Debug
 Version:	1.26
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
